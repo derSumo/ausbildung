@@ -4,7 +4,7 @@ Willkommen zu meinem Ausbildungsprojekt-Repository! Hier dokumentiere ich meine 
 
 ## Über mich
 
-Ich bin [Dein Name], eine enthusiastische Person im Bereich der Informationstechnologie. Meine Ausbildung konzentriert sich auf IT-Systemintegration, wobei ich mich besonders für Hardware und Systemarchitektur interessiere. Ich liebe es, komplexe Probleme zu lösen und innovative Lösungen zu finden.
+Ich bin [Dominik Malinowski], eine enthusiastische Person im Bereich der Informationstechnologie. Meine Ausbildung konzentriert sich auf IT-Systemintegration, wobei ich mich besonders für Hardware und Systemarchitektur interessiere. Ich liebe es, komplexe Probleme zu lösen und innovative Lösungen zu finden.
 
 ## Projekte
 
@@ -32,7 +32,6 @@ Wenn du Interesse an meinem Projekt und meinem Lernprozess hast, lade ich dich h
 
 Du kannst mich erreichen über:
 
-- E-Mail: [Deine E-Mail-Adresse]
-- LinkedIn: [Dein LinkedIn-Profil]
+- E-Mail: - [Kommt demnächst]
 
 Lass uns zusammen die Welt der IT erkunden und Großartiges schaffen!
